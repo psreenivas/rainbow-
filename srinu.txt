@@ -4,4 +4,6 @@ green
 violet
 yellow
 orange
+red
+indigo
 these are the colours
